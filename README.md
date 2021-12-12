@@ -4,8 +4,8 @@
 <img background="https://cio.com.br/wp-content/uploads/2019/07/carreira-como-se-tornar-hacker-etico.jpg">
 <div align="center">
   <a href="https://github.com/raulsecurity">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulsecurity&show_icons=true&theme=security&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulsecurity&layout=compact&langs_count=7&theme=security"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulsecurity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulsecurity&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 
